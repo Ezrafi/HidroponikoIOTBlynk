@@ -29,7 +29,7 @@ const int relayPoPin = 16;  // ESP32
 const int relayMoPin = 4;   // ESP32
 
 
-// Confiration DS18B20 Sensor
+// Configuration DS18B20 Sensor
 OneWire ds(15);  // ESP32
 float celsius;
 
